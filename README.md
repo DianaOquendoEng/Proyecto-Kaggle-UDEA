@@ -4,10 +4,10 @@ Entregas del proyecto Kaggle AI4ENG UDEA 2025-2
 ## Entrega 1
 
 ## Integrantes:
-- *Diana Milena Oquendo Restrepo*
-C.C: 1193123469
+- **Diana Milena Oquendo Restrepo** <br>
+C.C: 1193123469 <br>
 Ingenieria Industrial
 
-- *Maria Isabel Posada Botero*
-C.C: 1040355409
+- **Maria Isabel Posada Botero** <br>
+C.C: 1040355409 <br>
 Ingenieria Industrial
