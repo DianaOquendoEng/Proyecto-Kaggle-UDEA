@@ -11,3 +11,6 @@ Ingenieria Industrial
 - **Maria Isabel Posada Botero** <br>
 C.C: 1040355409 <br>
 Ingenieria Industrial
+
+
+## Link del Video entrega 2 - preprocesado: https://youtu.be/QNfy_KyuFwg?si=-1pujAuf_HSTpMfn
